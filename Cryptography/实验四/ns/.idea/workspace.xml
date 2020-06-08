@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa6cc90a-35d3-429a-9183-f71e79422504" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bkNmWvK5eXgDaJLkVVP6yNdyFI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="adversary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/adversary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adversary/adversary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/client" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client/client.py" />
+      <option name="PARAMETERS" value="-s adversary -u my_file.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/helpers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helpers/ns.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pki" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pki" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pki/pki.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.pki" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.ns" />
+      <item itemvalue="Python.adversary" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.adversary" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.pki" />
+        <item itemvalue="Python.ns" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa6cc90a-35d3-429a-9183-f71e79422504" name="Default Changelist" comment="" />
+      <created>1589172290093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589172290093</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="51" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590138623447">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state x="45" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1589871847755" />
+    <state x="51" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.914@0.0.1463.914" timestamp="1590138623447" />
+    <state x="412" y="105" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589174156461">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="412" y="105" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.800@0.0.1280.800" timestamp="1589174156461" />
+    <state width="1442" height="471" key="GridCell.Tab.0.bottom" timestamp="1590139499926">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1260" height="253" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589873433069" />
+    <state width="1442" height="471" key="GridCell.Tab.0.bottom/0.0.1463.914@0.0.1463.914" timestamp="1590139499926" />
+    <state width="1442" height="471" key="GridCell.Tab.0.center" timestamp="1590139499926">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1260" height="253" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589873433069" />
+    <state width="1442" height="471" key="GridCell.Tab.0.center/0.0.1463.914@0.0.1463.914" timestamp="1590139499926" />
+    <state width="1442" height="471" key="GridCell.Tab.0.left" timestamp="1590139499926">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1260" height="253" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589873433069" />
+    <state width="1442" height="471" key="GridCell.Tab.0.left/0.0.1463.914@0.0.1463.914" timestamp="1590139499926" />
+    <state width="1442" height="471" key="GridCell.Tab.0.right" timestamp="1590139499926">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1260" height="253" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589873433069" />
+    <state width="1442" height="471" key="GridCell.Tab.0.right/0.0.1463.914@0.0.1463.914" timestamp="1590139499926" />
+    <state width="1442" height="442" key="GridCell.Tab.1.bottom" timestamp="1590051339325">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1260" height="253" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589873433069" />
+    <state width="1442" height="442" key="GridCell.Tab.1.bottom/0.0.1463.914@0.0.1463.914" timestamp="1590051339325" />
+    <state width="1442" height="442" key="GridCell.Tab.1.center" timestamp="1590051339325">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1260" height="253" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1589873433069" />
+    <state width="1442" height="442" key="GridCell.Tab.1.center/0.0.1463.914@0.0.1463.914" timestamp="1590051339325" />
+    <state width="1442" height="442" key="GridCell.Tab.1.left" timestamp="1590051339325">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1260" height="253" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1589873433069" />
+    <state width="1442" height="442" key="GridCell.Tab.1.left/0.0.1463.914@0.0.1463.914" timestamp="1590051339325" />
+    <state width="1442" height="442" key="GridCell.Tab.1.right" timestamp="1590051339325">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="1260" height="253" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1589873433069" />
+    <state width="1442" height="442" key="GridCell.Tab.1.right/0.0.1463.914@0.0.1463.914" timestamp="1590051339325" />
+    <state x="142" y="42" key="SettingsEditor" timestamp="1589173652780">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="142" y="42" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1589173652780" />
+    <state width="739" height="464" key="XDebugger.FullValuePopup" timestamp="1590051303091">
+      <screen x="0" y="0" width="1463" height="914" />
+    </state>
+    <state width="646" height="406" key="XDebugger.FullValuePopup/0.0.1280.800@0.0.1280.800" timestamp="1589801187119" />
+    <state width="739" height="464" key="XDebugger.FullValuePopup/0.0.1463.914@0.0.1463.914" timestamp="1590051303091" />
+    <state x="287" y="15" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589799960986">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="287" y="15" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1589799960986" />
+    <state x="305" y="124" width="672" height="678" key="search.everywhere.popup" timestamp="1589792543506">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1589792543506" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
