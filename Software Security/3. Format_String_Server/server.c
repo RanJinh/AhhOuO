@@ -31,7 +31,7 @@ void myprintf(char *msg)
     char dummy[DUMMY_SIZE];  memset(dummy, 0, DUMMY_SIZE); 
 
     // This line has a format-string vulnerability
-    printf(msg);
+    printf("%s",msg);
     printf("The value of the 'target' variable (after): 0x%.8x\n", target);
 }
 
